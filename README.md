@@ -1,7 +1,15 @@
 # Team Name
-Clone this repo and use this to upload your project
+Clone this repo and use this to upload your project  <- Remove this line before submission -> <br>
+Team ID : **#hack__**    <!--- Replace __ with problem statement number -->
 
-#### Contributors List
+## Problem statement
+Replace this with your selected problem statement 
+
+### Introduction 
+<!--- Basically abstract of your project -->
+Introdution goes here
+
+#### Team Member
 
 SrNo | Name | Year | Department| Section | Email id
 :--|:--|:--|:--|:--|:--|
